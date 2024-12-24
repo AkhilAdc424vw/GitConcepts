@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int large1() {
+int large12() {
     int num1, num2, num3;
 
     printf("Enter three numbers: ");
