@@ -7,7 +7,7 @@ int add1(int a, int b) {
 }
 
 // Subtracts the second integer from the first
-int subtract1(int a, int b) {
+int subtract12(int a, int b) {
     return a - b;
 }
 
@@ -18,7 +18,7 @@ int multiply1(int a, int b) {
 
 // Divides the first integer by the second
 // Returns 0 if division by zero is attempted
-int divide1(int a, int b) {
+int divide12(int a, int b) {
     if (b == 0) {
         return 0; // Handling division by zero
     }
