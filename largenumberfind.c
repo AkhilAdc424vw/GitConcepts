@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int largenumber() {
+int largenumberfind() {
     int num1, num2, num3;
 
     printf("Enter three numbers: ");
