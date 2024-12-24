@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int checkoddeven1() {
     int num;
     
     printf("Enter a number: ");
