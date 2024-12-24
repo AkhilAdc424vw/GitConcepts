@@ -2,7 +2,7 @@
 #include "calculator.h"
 
 // Adds two integers
-int add12(int a, int b) {
+int add1(int a, int b) {
     return a + b;
 }
 
@@ -12,7 +12,7 @@ int subtract12(int a, int b) {
 }
 
 // Multiplies two integers
-int multiply12(int a, int b) {
+int multiply1(int a, int b) {
     return a * b;
 }
 
